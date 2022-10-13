@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="textView_question">Pytanie</string>
+
+    <string name="q1">W zwykłej talii kart wszyscy królowie mają wąsy?
+</string>
+    <string name="q2">Na świecie istnieje ponad 30 tys. odmian jabłek
+.</string>
+    <string name="q3">Banany są krzywe, bo rosną ku słońcu?
+</string>
+    <string name="q4">Stolicą Australii jest Sydney?
+</string>
+    <string name="q5">Pełne imię i nazwisko piosenkarza Billie Eilish to Billie Eilish Pirate Baird O\'Connell?
+</string>
+
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+</resources>
