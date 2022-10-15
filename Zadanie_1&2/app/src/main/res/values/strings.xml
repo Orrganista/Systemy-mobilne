@@ -4,6 +4,10 @@
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
     <string name="textView_question">Pytanie</string>
+    <string name="textView_prompt">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_prompt">Pokaż odpowiedź</string>
+    <string name="button_answer">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 
     <string name="q1">W zwykłej talii kart wszyscy królowie mają wąsy?
 </string>
