@@ -1,0 +1,11 @@
+
+J
+java:S3740""/Provide the parametrized type for this generic.(ÒõÆÛýÿÿÿÿ
+f
+java:S1301L"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+v
+java:S1450!"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+r
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+R
+java:S1068_"7Remove this unused "sensorIconImageView" private field.(ÑôÌ¦øÿÿÿÿ

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SuperStyle">
+
+    <CheckBox
+        android:id="@+id/task_item_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:width="100dp"
+        android:padding="@dimen/task_item_padding" />
+
+    <TextView
+        android:id="@+id/task_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:width="200dp"
+        android:padding="@dimen/task_item_padding"
+        android:singleLine="true"
+        android:text="TextView"
+        android:textColor="@color/colorPrimaryDark"/>
+
+    <TextView
+        android:id="@+id/task_item_date"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:width="200dp"
+        android:background="#C38484"
+        android:padding="@dimen/task_item_padding"
+        android:text="TextView"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:id="@+id/task_item_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minWidth="100dp"
+        tools:srcCompat="@drawable/ic_house"
+        android:padding="@dimen/task_item_padding"/>
+</LinearLayout>

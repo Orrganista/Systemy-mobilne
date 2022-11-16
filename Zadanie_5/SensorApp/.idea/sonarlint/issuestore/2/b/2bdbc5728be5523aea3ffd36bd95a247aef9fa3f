@@ -1,0 +1,8 @@
+
+a
+java:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(íÚñ∆
+ó
+java:S1186Q"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ß€ÎË
+7	java:S131!""Add a default case to this switch.(íÚñ∆
+T
+java:S1068"7Remove this unused "sensorAccelerometer" private field.(ÎÛ‹œ8çà¨Ö»0

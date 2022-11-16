@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="sensor_icon">Sensor Icon</string>
+    <string name="show_count">Show Me</string>
+    <string name="hide_count">Hide Me</string>
+    <string name="sensor_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="light_sensor_label">%f</string>
+    <string name="download_localization">Pobierz lokalizację</string>
+    <string name="download_loc_text">Wciśnij przycisk, aby pobrać ostatnią lokalizację</string>
+    <string name="location_permission_denied">Nie udzielono pozwolenia</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="location">Nie wiem</string>
+    <string name="no_location">Brak lokalizacji</string>
+    <string name="download_address">Pobierz adres</string>
+    <string name="no_address_found">Nie znaleziono adresu</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr"</string>
+    <string name="service_not_available">Usługa niedostępna</string>
+</resources>
